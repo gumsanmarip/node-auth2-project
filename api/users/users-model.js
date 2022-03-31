@@ -37,6 +37,7 @@ function findBy(filter) {
 }
 
 function findById(user_id) {
+  
   /**
     You will need to join two tables.
     Resolves to the user with the given user_id.
